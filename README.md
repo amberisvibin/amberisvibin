@@ -5,7 +5,7 @@
  - I am currently learning [Rust](https://github.com/rust-lang/rust).
  - I am on [dev.to](https://dev.to/amberisvibin).
  
- [![Amber's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=32)](https://dev.to/amberisvibin)
+ <!--[![Amber's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=32)](https://dev.to/amberisvibin)!-->
 
 <!--
 **amberisvibin/amberisvibin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
