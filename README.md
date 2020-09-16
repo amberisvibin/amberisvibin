@@ -1,3 +1,7 @@
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberisvibin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![amberisvibin's github stats](https://github-readme-stats.vercel.app/api?username=amberisvibin&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hello!
 
  - I am a hobby programmer, trying to learn more about everything tech.
@@ -5,9 +9,7 @@
  - I am currently learning [Rust](https://github.com/rust-lang/rust).
  - I am on [dev.to](https://dev.to/amberisvibin).
  
- [![amberisvibin's github stats](https://github-readme-stats.vercel.app/api?username=amberisvibin&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberisvibin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ Recent activity:
  
  <!--START_SECTION:activity-->
 1. 🗣 Commented on [#180](https://github.com//fennecdjay/Gwion/issues/180) in [fennecdjay/Gwion](https://github.com//fennecdjay/Gwion)
