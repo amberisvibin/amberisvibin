@@ -9,6 +9,9 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amberisvibin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
+ <!--START_SECTION:activity-->
+ <!--END_SECTION:activity-->
+ 
  <!--[![Amber's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=32)](https://dev.to/amberisvibin)!-->
 
 <!--
