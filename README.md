@@ -1,7 +1,7 @@
 ### Hello!
 
  - I am a hobby programmer, trying to learn more about everything tech.
- - I am working on a few things, including a [Z80 based retrocomputer](https://github.com/amberisvibin/chibi-pc80).
+ - I am working on a few things, including a [Motorola 6809 based retrocomputer](https://github.com/amberisvibin/chibi-pc09).
  - I am currently learning [Rust](https://github.com/rust-lang/rust).
  - I am on [dev.to](https://dev.to/amberisvibin).
  
