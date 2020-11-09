@@ -5,6 +5,8 @@
  - I am currently learning [Rust](https://github.com/rust-lang/rust).
  - I am on [dev.to](https://dev.to/amberisvibin).
  
+ P.S. If I ever get my own site I'll probably host my own project there, and keep GitHub around for working on others' projects.
+ 
 [![amberisvibin's github stats](https://github-readme-stats.vercel.app/api?username=amberisvibin&include_all_commits=1)](https://github.com/anuraghazra/github-readme-stats)
  
  <!--[![Amber's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg | width=32)](https://dev.to/amberisvibin)!-->
