@@ -2,6 +2,7 @@
 
  - I am a hobby programmer, trying to learn more about everything tech.
  - I am working on a few things, including a [Motorola 6809 based retrocomputer](https://github.com/amberisvibin/chibi-pc09).
+ - My gists are available [here](https://gist.github.com/amberisvibin).
  - I am currently learning [Rust](https://github.com/rust-lang/rust).
  - I am on [dev.to](https://dev.to/amberisvibin).
  - You can contact me at amberisvibin@gmail.com.
